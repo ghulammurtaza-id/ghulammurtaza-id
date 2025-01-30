@@ -1,5 +1,7 @@
-## Hi there 👋
-
+ ## Hi there 👋
+- 🔭 I’m currently doing Bachelor in Computer Science from FAST-NU.
+- 🌱 I’m currently learning Programming Indepth with Practical Experties.
+- ⚡ I'm very passionate about Competitive Programming.
 <!--
 **ghulammurtaza-id/ghulammurtaza-id** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
